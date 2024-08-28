@@ -1,0 +1,11 @@
+.sidebar::-webkit-scrollbar{
+    display: none;
+}
+*::-webkit-scrollbar{
+    display: none;
+
+}
+.active i{
+    padding-bottom: 2px;
+    border-bottom: 2px solid red;
+}
